@@ -8,8 +8,6 @@
  An App that allows users to organize their finances.
 </h4>
 
-#### List
-
 <p align="center">
     <img src="https://user-images.githubusercontent.com/8962452/85952545-5b5ba680-b940-11ea-8fee-123f04c97c3a.png" alt="Go Finance List">
 </p>
